@@ -4,3 +4,5 @@ Description - A tool to get below information from Azure SQL This tool is not fo
 
 
 ![AzSQLQuicky](https://user-images.githubusercontent.com/63040045/189911831-e40e0645-9ec5-4b75-a82c-7d9dd64a9694.png)
+
+![AzSQLQuickyFR](https://user-images.githubusercontent.com/63040045/189912840-66fe68e8-350d-43c4-8d28-b2ff5b1b9b14.png)
